@@ -1,0 +1,126 @@
+Department,Semester,Course Code,Course Name,L,T,P,S,C,Faculty,Schedule
+CSE,2,CS162,Optimization,3,1,0,0,2,Dr. Dibyajyothi,Yes
+CSE,2,CS163,Data Structures & Algorithms,3,0,2,0,4,Prof. CB Akki/Dr. Suvadip Hazra,Yes
+CSE,2,CS164,Computer Architecture,3,0,2,0,2,Dr. Prabhu Prasad/Prof. CB Akki,Yes
+CSE,2,CS165,Mathematical foundations of Computing,3,0,0,0,3,Dr. Animesh Roy,Yes
+CSE,2,B0-HS204 ,Economics ,2,1,0,2,3,Dr. Anusree Kini,Yes
+CSE,2,B0-HS153, Innovation and Entrepreneurship ,2,1,0,2,3,Dr. Deepak KT,Yes
+CSE,2,B1-ASD151,Introduction to Design,1,0,0,1,0,Dr. Sandesh P,Yes
+CSE,2,B1-HS151,Introduction to Personal Finance,2,0,0,2,0,Dr. Siddharth,Yes
+CSE,2,B1-IOT101,Introduction to Internet of Things,2,0,0,2,0,Dr Jagadeesha Bhat,Yes
+CSE,2,B2-CC101,Concurrency and Computation,2,0,0,2,0,Dr. Pramod Yelmewad,Yes
+CSE,2,B2-CISM101,Computer Intensive Statistical Methods,2,0,0,2,0,Dr Ramesh Athe,Yes
+CSE,2,B2-IIP101,Industry Insights Program Part 1,1,0,0,1,0,Mr. Ram Subramanian & Mr. Sasi Kumar Sundara Rajan,Yes
+CSE,4,MA202,Linear Algebra,3,1,0,0,4,Dr. Anand Barangi,Yes
+CSE,4,CS206,Theory of Computing,3,1,0,0,4,Dr. Pavan/Dr. Sunil C K,Yes
+CSE,4,CS204,Operating Systems,3,0,2,0,4,Dr. Suvadip Hazra/Dr. Malay and Dr. Dibyajyothi,Yes
+CSE,4,CS301,Software Engineering,3,1,0,0,4,Dr. Vivekraj/Dr. Sunil Kumar P V,Yes
+CSE,4,CS310,Database Management Systems,3,1,2,0,5,Dr. Pramod Yelmewad/Dr. Abdul Wahid,Yes
+CSE,4,HS205,Ethics,3,0,0,0,3,"Dr. Jolly Thomas, IIT Dharwad",Yes
+CSE,6,CS307,Machine Learning,3,0,2,0,4,Dr. Girish GN/Dr. Krishnendu Ghosh,Yes
+CSE,6,B1-CS464,Deep Learning for Computer Vision,3,1,0,0,4,Chinmayanand,Yes
+CSE,6,B1-abc001,Large Languange Models,3,1,0,0,4,Dr. Sunil S,Yes
+CSE,6,B1-CS458,Natural Language Processing,3,1,0,0,4,Dr. Krishnendu,Yes
+CSE,6,B1-abc003,Deep Speech Processing,3,0,0,4,4,Prof. SRM Prasanna,Yes
+CSE,6,B2-abc004,Blockchain Technology,3,1,0,0,4,Dr. Rajendra H,Yes
+CSE,6,B2-abc005,Introduction to 5G Network,3,1,0,0,4,Dr. Jagadeesha R Bhat,
+CSE,6,B2-abc006,Model Checking,3,0,0,4,4,Dr. Pavan,
+CSE,6,B2-abc007,Quantum Communication,3,0,0,0,3,Dr. Aswath B,
+CSE,6,B2-abc008,Quantum HPC and AI,1,0,0,0,1,Dr. Manish M (Dr. Aswath),
+CSE,6,B2-abc009,Design Thinking and Innovation,3,1,0,0,4,Dr. Sandesh P,
+CSE,6,B3-abc010,Automotive Embedded and Multimedia Systems,3,0,0,4,4,Mr. Jagadeesh K (Dr Sibasankar Padhy),Yes
+CSE,6,B3,Microwave Engineering,3,1,0,0,4,Dr. Deepak KT,Yes
+CSE,6,B3-CS462,Computer Graphics,3,1,0,0,4,Dr. Vivekraj V K,
+CSE,6,B3-CS469,Virtualization and Cloud Computing,,,,,,Dr Malay,
+CSE,6,B4-abc012,Data Analytics and Visualization,3,1,0,0,4,Dr. Sunil CK,Yes
+CSE,6,B4-DS351,Statistics for Health Technology,3,1,0,0,4,Dr. Ramesh Athe,
+CSE,6,B4-abc014,Medical Image Analysis,3,0,0,4,4,Dr. Girish GN,
+CSE,6,B4-CS472,Bioinformatics,,,,,,Dr. Sunil Kumar PV,
+CSE,6,CS399,Mini Project 1,0,0,0,8,2,Dr. Pramod Yelmewad and Animesh Roy,Yes
+CSE,8,CS499,Major-Project,0,0,0,32,8,Dr. Pramod Yelmewad and Dr. Animesh Roy,Yes
+DSAI,2,MA163,Linear Algebra,3,1,0,0,2,Dr. Sibasankar Padhy,Yes
+DSAI,2,CS162,Optimization,3,1,0,0,2,Dr. Dibyajyoti Guha,Yes
+DSAI,2,CS164,Computer Architecture,3,0,2,0,2,Dr. Manjunath,Yes
+DSAI,2,HS161,English Language and Communication,3,0,0,0,3,Dr. Rajesh N S,Yes
+DSAI,2,CS163,Data Structures & Algorithms,3,0,2,0,4,Dr. Sunil Saumya,Yes
+DSAI,2,DS164,Data Curation Techniques,2,0,2,0,3,Dr. Siddharth R,Yes
+DSAI,2,B3-NEW,Data Science with Python,0,0,2,0,0,Dr. Abdul Wahid,
+DSAI,2,B3-NEW,Introduction to Digital VLSI Design,0,0,2,0,0,Dr Prakash Pawar,
+DSAI,2,B3-NEW,Industry Insights Program Part 1,0,0,1,0,0,Mr. Ram Subramanian & Mr. Sasi Kumar Sundara Rajan,
+DSAI,2,B3-NEW,Principles of Quantum Physics,0,0,2,0,0,Dr. Ashwath Babu & Prof. Ravi Shankar,
+DSAI,2,B4-NEW,Linux for Engineers,0,0,2,0,0,Dr. Shirshendu Layek,
+DSAI,2,B4-NEW,Photography101,0,0,1,0,0,Dr Prabhu Prasad BM,
+DSAI,2,B4-NEW,Introduction to Holistic Personality Development,0,0,1,0,0, Prof. Chachadi and Dr. Chandrika K,
+DSAI,2,B4-NEW,"Visual Design – Principles and Application in Product Communication	",0,0,2,0,0,Dr. Sandesh P,
+DSAI,2,B4-ASD151,Introduction to Design,0,0,1,0,0,Dr. Sandesh P,Yes
+DSAI,2,B4-HS151,Introduction to Personal Finance,0,0,2,0,0,Dr. Siddharth,Yes
+DSAI,2,B4-NEW,Introduction to Internet of Things,0,0,2,0,0,Dr Jagadeesha Bhat,Yes
+DSAI,2,B4-CISM101,Computer Intensive Statistical Methods,0,0,2,0,0,Dr Ramesh Athe,Yes
+DSAI,2,B4-CC101,Concurrency and Computation,0,0,2,0,0,Dr Pramod Y,Yes
+DSAI,4,MA202,Linear Algebra,3,1,0,0,4,Dr. Chinmayananda,Yes
+DSAI,4,HS206,Industrial Social Psychology,3,0,0,0,3,Dr. Navyashree,Yes
+DSAI,4,CS204,Operating Systems,3,1,0,0,4,Dr. Manjunath KV,Yes
+DSAI,4,DS204,Software Engineering and Services,3,0,2,0,4,Dr. Animesh Chaturvedi,Yes
+DSAI,4,CS310,Database Management System,3,1,2,0,5,Dr. Shirshendu & Dr. Utkarsh Khaire,Yes
+DSAI,4,DS205,Global Business Perspectives,3,0,0,0,3,Mr. Manmohan Singh,Yes
+DSAI,6,DS309,Cloud Computing,3,0,0,4,4,Dr. Animesh Chaturvedi,Yes
+DSAI,6,DS306,Financial Data Analytics,3,0,0,4,4,Dr. Utkarsh Khaire,Yes
+DSAI,6,DS307,Innovation & Entrepreneurship,3,1,0,0,4,Mr. Ram Subramanian,Yes
+DSAI,6,DS308,Data Security & Privacy,3,1,0,0,4,Dr. Abdul Wahid & Dr. Rajendra Hegadi,Yes
+DSAI,6,DS399,Mini Project-I,0,0,0,8,2,Coordinator: Dr. Shirshendu,Yes
+DSAI,6,B1-CS464,Deep Learning for Computer Vision,3,1,0,0,4,Dr. Chinmayanand,Yes
+DSAI,6,B1-abc001,Large Language Models,3,0,0,4,4,Dr. Sunil S,Yes
+DSAI,6,B1-CS458,Natural Language Processing,3,1,0,0,4,Dr. Krishnendu,Yes
+DSAI,6,B1-abc003,Deep Speech Processing,3,1,0,0,4,Prof. SRM Prasanna,Yes
+DSAI,6,B2-CS455,Blockchain Technology,3,0,0,4,4,Dr. Rajendra H,Yes
+DSAI,6,B2-EC361,Introduction to 5G Network,3,1,0,0,4,Dr. Jagadeesha R Bhat,
+DSAI,6,B2-abc006,Model Checking,3,0,0,4,4,Dr. Pavan,
+DSAI,6,B2-abc007,Quantum Communication,3,0,0,0,3,Dr. Aswath B,
+DSAI,6,B2-abc008,Quantum HPC and AI,1,0,0,0,1,Dr. Manish M (Dr. Aswath),
+DSAI,6,B2-abc009,Design Thinking and Innovation,3,1,0,0,4,Dr. Sandesh P,
+ECE,2,-,Linear Algebra,3,1,0,0,2,Dr. Somen Bhattacharjee,Yes
+ECE,2,-,Optimization,3,1,0,0,2,Dr. Dibyajyoti Guha,Yes
+ECE,2,-,Computer Architecture,3,0,2,0,2,Dr.Jagadish D N,Yes
+ECE,2,-,English Language and Communication,3,0,0,0,3,Dr. Rajesh N S,Yes
+ECE,2,-,Data Structures and Algorithms,3,0,2,0,4,Dr. Prabhu Prasad,Yes
+ECE,2,-,Network Analysis,2,1,0,0,3,Dr. Sibasankar Padhy,Yes
+ECE,2,B3-NEW,Data Science with Python,0,0,2,0,0,Dr. Abdul Wahid,
+ECE,2,B3-NEW,Introduction to Digital VLSI Design,0,0,2,0,0,Dr Prakash Pawar,
+ECE,2,B3-NEW,Industry Insights Program Part 1,0,0,1,0,0,Mr.Ram Subramanian & Mr. Sasi Kumar Sundara Rajan,
+ECE,2,B3-NEW,Principles of Quantum Physics,0,0,2,0,0,Dr. Aswath Babu & Pof. Ravi Shankar,
+ECE,2,B4-NEW,Linux for Engineers,0,0,2,0,0,Dr. Shirshendu L,
+ECE,2,B4-NEW,Photography101,0,0,1,0,0,Dr Prabhu Prasad BM,
+ECE,2,B4-NEW,Introduction to Holistic Personality Development,0,0,1,0,0,Prof.Chachadi and Dr.Chandrika,
+ECE,2,B4-NEW,Visual Design – Principles and Application in Product Communication        ,0,0,2,0,0,Dr. Sandesh P,
+ECE,2,B1-NEW,Introduction to Internet of Things,0,0,2,0,0,Dr Jagadeesha Bhat,Yes
+ECE,2,B1-ASD151,Introduction to Design,0,0,1,0,0,Dr. Sandesh P,Yes
+ECE,2,B1-HS151,Introduction to Personal Finance,0,0,2,0,0,Dr. Siddharth,Yes
+ECE,2,B1-CC101,Concurrency and Computation,0,0,2,0,0,Dr Pramod Y,Yes
+ECE,2,B2-CISM101,Computer Intensive Statistical Methods,0,0,2,0,0,Dr Ramesh Athe,Yes
+ECE,4,MA208,Probability and Random Processes,3,1,0,0,4,Dr. Rajib Sharma/ Rajesh Kumar ,Yes
+ECE,4,EC205,Control Systems,3,0,2,0,4,Dr. Pankaj Kumar,Yes
+ECE,4,EC310,Embedded Systems Design,3,1,0,0,4,Dr. Prakash Pawar,Yes
+ECE,4,EC204,Analog and Digital Communication,3,1,2,0,5,Dr. Somen Bhattacharjee / Dr. Jagadish D N (Lab),Yes
+ECE,4,HS204,Economics,3,1,0,0,4,Dr. Anushree Kini,Yes
+ECE,4,HS205,Ethics,3,0,0,0,3,Dr. Jolly Thomas IIT Dharwad,Yes
+ECE,6,CS307,Wireless Communication,3,0,0,4,4,Dr. Rajib Sharma/ Dr. Rao (Lab),Yes
+ECE,6,B1-CS464,Deep Learning for Computer Vision ,3,1,0,0,4,Dr. Chinmayanand,Yes
+ECE,6,B1-abc001,Large Languange Models,3,0,0,4,4,Dr. Sunil S,Yes
+ECE,6,B1-CS458,Natural Language Processing,3,1,0,0,4,Dr. Krishnendu,Yes
+ECE,6,B1,CMOS RF Circuit Design,,,,,,Dr. Rajesh Kumar,Yes
+ECE,6,B1-abc003,Deep Speech Processing,3,1,0,0,4,Prof. SRM Prasanna,Yes
+ECE,6,B2-CS455,Blockchain Technology,3,0,0,4,4,Dr. Rajendra H,Yes
+ECE,6,B2-EC361,Introduction to 5G Network,3,1,0,0,4,Dr. Jagadeesha R Bhat,Yes
+ECE,6,B2-abc006,Model Checking,3,0,0,4,4,Dr. Pavan,
+ECE,6,B2-abc007,Quantum Communication,3,0,0,0,3,Dr. Aswath B,Yes
+ECE,6,B2-abc008,Quantum HPC and AI,1,0,0,0,1,Dr. Manish M (Dr. Aswath),Yes
+ECE,6,B2-abc009NEW,Design Thinking and Innovation,3,1,0,0,4,Dr. Sandesh P,Yes
+ECE,6,B3-CS462,Computer Graphics,3,1,0,0,4,Dr. Vivekraj V K,Yes
+ECE,6,B3-CS307,Machine Learning,3,1,0,0,4,Dr. Deepak K T,Yes
+ECE,6,B3-CS469,Virtualization & Cloud Computing,,,,,,Dr. Malay,Yes
+ECE,6,B4-abc012,Data Analytics & Visualization,3,1,0,0,4,Dr. Sunil C K ,Yes
+ECE,6,B4-DS351,Statistics for Health Technology,3,1,0,0,4,Dr. Ramesh Athe,Yes
+ECE,6,B4-abc014,Medical Image Analysis,2,0,2,4,4,Dr. Girish G N,Yes
+ECE,6,B4-CS472,Bioinformatics,,,,,,Dr. Sunil Kumar PV,Yes
+ECE,6,B3,Microwave Engineering,3,1,0,0,4,Dr. Deepak KT,Yes
+ECE,8,EC499,Major Project,0,0,0,32,8,Dr. Rajesh Kumar,Yes
