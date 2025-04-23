@@ -17,7 +17,7 @@ An automated timetable generation system for academic institutions.
 - `rooms.csv`: Room information
 - `updated_batches.csv`: Batch size information
 - `elective_registration.csv`: Elective course registrations
-
+- `Faculty.csv`: Faculty details 
 ## Setup
 
 1. Install required dependencies:
